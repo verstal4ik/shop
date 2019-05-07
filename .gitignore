@@ -1,0 +1,4 @@
+# Lines starting with '#' are considered comments.
+# Ignore any file named foo.txt.
+test_for_ignor.py
+readme.txt
